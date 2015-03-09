@@ -1,2 +1,2 @@
 # asa-templates
-Templates for AmazonSimpleAdmin
+German, borderless templates for AmazonSimpleAdmin
